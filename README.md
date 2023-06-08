@@ -1,5 +1,5 @@
 # my_music_app
-Website where you can buy music
+Website build with Django where you can buy music
 ![Screenshot_3](https://github.com/Warw1ck/my_music_app/assets/114092919/d03d2a41-d9e7-4a43-82d3-076a4dffd315)
 ![Screenshot_1](https://github.com/Warw1ck/my_music_app/assets/114092919/56288412-2a0f-446c-9807-6ef1b65f4652)
 ![Screenshot_2](https://github.com/Warw1ck/my_music_app/assets/114092919/8f50992a-dd56-4137-aad0-e823e1e3b5bc)
